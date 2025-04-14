@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <a href="https://kshitijgomber.vercel.app"><strong>🌐 Portfolio</strong></a> •
+  <a href="https://kshitijgomber.com"><strong>🌐 Portfolio</strong></a> •
   <a href="https://github.com/KshitijGomber"><strong>GitHub</strong></a> •
   <a href="https://linkedin.com/in/kshitijgomber"><strong>LinkedIn</strong></a> •
   📧 kshitijgomber@gmail.com
