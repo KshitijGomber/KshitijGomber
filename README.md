@@ -95,7 +95,7 @@ Bachelor of Science – Computer Science Major (Year 3)
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KshitijGomber&layout=compact&theme=dracula" height="180"/>
+  <img src="https://github.com/KshitijGomber/KshitijGomber/blob/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
 </p>
 
 ---
