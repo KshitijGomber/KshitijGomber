@@ -106,7 +106,7 @@ Bachelor of Science – Computer Science Major (Year 3)
 Whether you're hiring, collaborating, or just curious about my work—let's talk!
 
 📧 Email: [kshitijgomber@gmail.com](mailto:kshitijgomber@gmail.com)  
-🌐 Portfolio: [kshitijgomber.vercel.app](https://kshitijgomber.vercel.app)  
+🌐 Portfolio: [kshitijgomber.vercel.app](https://kshitijgomber.com)  
 🔗 LinkedIn: [linkedin.com/in/kshitijgomber](https://linkedin.com/in/kshitijgomber)
 
 ---
