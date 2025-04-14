@@ -94,9 +94,11 @@ Bachelor of Science – Computer Science Major (Year 3)
 
 ### 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github.com/KshitijGomber/KshitijGomber/blob/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KshitijGomber/KshitijGomber/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KshitijGomber/KshitijGomber/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/KshitijGomber/KshitijGomber/output/github-contribution-grid-snake.svg" />
+</picture>
 
 ---
 
