@@ -122,7 +122,6 @@ _Bachelor of Science – Computer Science Major (Year 4)_
 
 ### 📈 GitHub Insights
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=KshitijGomber)](https://git.io/streak-stats)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KshitijGomber/KshitijGomber/output/github-contribution-grid-snake-dark.svg" />
