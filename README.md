@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Kshitij Gomber 👋</h1>
 <p align="center">
-  🌟 Computer Science Student @ UBC | 💻 Software Engineer | 🧠 AI/ML & Full-Stack Developer | 🎨 UX Enthusiast  
+  🌟 Computer Science Student @ UBC | 💻 Full-Stack & AI Developer | 🎓 Undergraduate Teaching Assistant  
 </p>
 
 <p align="center">
@@ -14,81 +14,109 @@
 
 ### 👨‍💻 About Me
 
-I'm a passionate **Computer Science major at the University of British Columbia**, exploring the intersection of AI, software engineering, and UI/UX design. With hands-on experience in developing scalable web apps, AI-driven tools, and engaging desktop applications, I aim to craft technology that truly makes a difference.
+I'm a **final-year Computer Science major at the University of British Columbia** with professional experience in **full-stack development, backend systems, and AI-driven applications**. I’ve worked on **scalable web apps, fintech platforms, and AI-powered tools**, with a strong focus on **system design, security, and performance optimization**.  
 
-- 🎓 Currently a Year 3 Dean's List student @ UBC  
-- 🛠️ Internship & TA experience across IT, education, and energy sectors  
-- 🚀 Focused on building intuitive, intelligent, and impactful tech solutions
+- 🎓 Year 4 CS Major @ UBC | Dean’s List Recipient  
+- 💼 Internship experience in **software engineering, fintech, and energy IT**  
+- 🎓 Currently an **Undergraduate TA** for first-year Calculus courses  
+- 🚀 Passionate about building **intuitive, intelligent, and impactful** tech solutions  
 
 ---
 
 ### 🧠 Technical Expertise
 
 #### 💻 Languages
-Java • C++ • Python • JavaScript • HTML/CSS • R • SQL • LaTeX • Assembly
+Java • Python • C++ • JavaScript • Kotlin • C# • SQL • R • HTML/CSS • LaTeX • Assembly  
 
-#### ⚙️ Frameworks & Tools
-FastAPI • Flask • Node.js • Uvicorn • Swing • AWT • Bash • Git/GitHub • CI/CD
+#### ⚙️ Frameworks & Libraries
+FastAPI • Spring Boot • Node.js • Express.js • React.js • Flask • NumPy • Pandas • jQuery • Bootstrap • Material-UI  
 
-#### 📊 Data, AI & Cloud
-Pandas • NumPy • MySQL • PostgreSQL • MongoDB • Query Optimization • AWS EC2  
-LLM Integration • OpenAI • Gemini API • LangChain
+#### ☁️ Databases & Cloud
+MySQL • MongoDB • AWS • RESTful APIs • Git/GitHub • CI/CD • Render  
 
-#### 🌐 Other Skills
-Responsive Web Design • UX Prototyping • Jupyter Notebook • AR Lens Design (Snapchat Studio)
-
----
-
-### 🏗️ Highlighted Projects
-
-#### 📄 [Resume Curator](https://github.com/KshitijGomber/Resume-Curator) | [Live Demo](https://resume-curator.vercel.app)
-> 🧠 Python • FastAPI • Uvicorn • Gemini API  
-Built an AI-powered resume parser that extracts details, suggests optimizations, and automates keyword analysis using LLMs.
-
-#### 🌐 [Personal Portfolio Website](https://github.com/KshitijGomber/personal-portfolio) | [Live Demo](https://kshitijgomber.vercel.app)
-> 🎨 HTML • CSS • JavaScript • jQuery • Bootstrap  
-Responsive personal website featuring projects, skills, and professional highlights with smooth animations and filtering.
-
-#### 🎮 [GameLog Database](https://github.com/KshitijGomber/DatabaseProject)
-> 🗃️ SQL • Node.js • HTML/CSS • JS  
-Designed a database app to track game development and user reviews, utilizing advanced queries and dashboard analytics.
-
-#### ⏱️ [Study Tracker](https://github.com/KshitijGomber/StudyTracker)
-> 🐍 Python • Tkinter • Multithreading  
-CLI+GUI tool that helps manage focused study and break sessions. Includes a “break debt” tracker and notification system.
-
-#### 🏋️‍♂️ [Fitness Tracker](https://github.com/KshitijGomber/FitnessTracker) & 🎞️ [Watchlist Manager](https://github.com/KshitijGomber/WatchListManager)
-> ☕ Java • Swing • AWT  
-Desktop apps for workout logging and film tracking, with intuitive GUIs and goal-setting features.
-
-#### 🤳 [Snapchat Lens Filters](https://github.com/KshitijGomber)
-> 🌈 Lens Studio  
-Created AR filters with over **4.2 million views** and **95k+ shares**, showcasing technical creativity in augmented reality.
+#### 🛠️ Developer Tools & Concepts
+System Design • Data Structures & Algorithms • Multithreading • Query Optimization • Bash • LLM Integration • JWT • OAuth2  
 
 ---
 
 ### 💼 Experience
 
-- 🧑‍🏫 **Undergraduate TA** @ UBC — MATH 100, 101, 180  
-- 🌐 **Online Mentor** @ iEdufy — Physics & Math  
-- 🛢️ **Intern** @ HPCL-Mittal Energy — IT support and tech operations  
-- 🏦 **Intern** @ Paul Merchants Finance — Support for fintech applications  
+#### 🚀 **Software Intern (Full Stack Developer)** — Aligned Automation *(June 2025 – Aug 2025)*  
+_Remote_  
+- Developed and optimized a **client-facing movie booking system** using the **MERN stack**, improving API response times.  
+- Designed **RESTful API architecture** and database schema for scalability.  
+- Built a **robust authentication system** with JWT, Passport.js, and Google OAuth2.  
+- Contributed to the **[Arrow3 Project](https://github.com/KshitijGomber/arrow3)** for client solutions.  
+
+#### 🏦 **Software Intern** — Paul Merchants Finance *(May 2025 – June 2025, May 2023 – July 2023)*  
+_India_  
+- Resolved technical issues for fintech platforms **Maya Money** & **Paul Pay**.  
+- Maintained backend systems using **Java/Kotlin, Spring Boot, and AWS**.  
+
+#### 🎓 **Undergraduate Teaching Assistant** — UBC *(Sept 2023 – Present)*  
+_Vancouver, BC_  
+- Lead tutorials for **Calculus (MATH 100, 101, 180)**, supporting 200+ students.  
+- Grade assignments, provide feedback, and organize weekly discussions.  
+- Collaborate with instructors to improve student learning outcomes.  
+
+#### 🌐 **Online Mentor** — iEdufy *(Jan 2023 – Dec 2023)*  
+_Remote_  
+- Tutored students in **Physics & Mathematics**, developing tailored lesson plans.  
+
+#### 🛢️ **Software Intern** — HPCL-Mittal Energy *(July 2023 – Aug 2023)*  
+_India_  
+- Provided technical support for refinery’s internal portal.  
+- Diagnosed and resolved IT issues for employees across multiple departments.  
+
+---
+
+### 🏗️ Featured Projects
+
+#### 🎞️ [Movie Ticket Booking System](https://github.com/KshitijGomber/MovieTicketBookingSystem) | [Live Demo](https://movie-ticket-booking-system-two.vercel.app)  
+> MERN (MongoDB, Express.js, React.js, Node.js) • JWT • Google OAuth • Material-UI  
+- Full-stack **movie booking app**, deployed on Vercel & Render.  
+- Real-time **seat map selection** with interactive UI.  
+- Automated **email notifications** for bookings.  
+
+#### 📄 [Resume Curator](https://github.com/KshitijGomber/Resume-Curator) | [Live Demo](https://resume-curator.vercel.app)  
+> Python • FastAPI • Uvicorn • LLM Integration (Gemini API)  
+- AI-powered **resume analysis tool** for keyword extraction & formatting.  
+- Deployed on Render to handle concurrent uploads.  
+
+#### 🎯 [Arrow3 Project](https://github.com/KshitijGomber/arrow3)  | [Live Demo](https://arrow3.vercel.app)  
+> MERN Stack • System Design • Authentication  
+- Built at **Aligned Automation Internship**.  
+- Focused on **scalable client solutions** with secure authentication flows.  
+
+#### 🌐 [Personal Portfolio](https://github.com/KshitijGomber/personal-portfolio) | [Live Demo](https://kshitijgomber.com)  
+> HTML • CSS • JavaScript • Bootstrap • jQuery  
+- Responsive portfolio showcasing projects, experience, and achievements.  
+
+#### 🎮 [GameLog Database](https://github.com/KshitijGomber/DatabaseProject)  
+> SQL • Node.js • HTML/CSS • JS  
+- Database system for tracking game milestones & user reviews.  
+- Optimized data retrieval with **30% faster SQL queries**.  
+
+#### 🤳 [Snapchat Lens Filters](https://github.com/KshitijGomber)  
+> Lens Studio • AR Design  
+- Created AR filters with **4.2M+ views** & **95k+ shares**.  
+- Enhanced interactive effects for smoother AR experiences.  
 
 ---
 
 ### 🎓 Education
 
 **University of British Columbia**  
-Bachelor of Science – Computer Science Major (Year 3)  
-📍 Vancouver, Canada | 🏆 Dean’s List Recipient
+_Bachelor of Science – Computer Science Major (Year 4)_  
+📍 Vancouver, BC | 🏆 Dean’s List Recipient  
 
 ---
 
-### 🏅 Noteworthy Achievements
+### 🏅 Achievements
 
-- 🛡️ **Goldman Sachs Cybersecurity Virtual Program**  
-- 🧠 **Top 300** – Indian Olympiad Qualifier in Mathematics  
-- 🤳 Viral Snapchat Lens — 4.2M+ views
+- 🛡️ **Goldman Sachs Cybersecurity Virtual Program** (2021)  
+- 🧠 **Top 300 Rank** — Indian Olympiad Qualifier in Mathematics (2021)  
+- 🌟 **Viral AR Filters** — 4.2M+ views on Snapchat  
 
 ---
 
@@ -102,16 +130,14 @@ Bachelor of Science – Computer Science Major (Year 3)
 
 ---
 
-### 📬 Let's Connect
+### 📬 Let’s Connect
 
-Whether you're hiring, collaborating, or just curious about my work—let's talk!
-
-📧 Email: [kshitijgomber@gmail.com](mailto:kshitijgomber@gmail.com)  
-🌐 Portfolio: [kshitijgomber.vercel.app](https://kshitijgomber.com)  
-🔗 LinkedIn: [linkedin.com/in/kshitijgomber](https://linkedin.com/in/kshitijgomber)
+💌 Email: [kshitijgomber@gmail.com](mailto:kshitijgomber@gmail.com)  
+🌐 Portfolio: [kshitijgomber.com](https://kshitijgomber.com)  
+🔗 LinkedIn: [linkedin.com/in/kshitijgomber](https://linkedin.com/in/kshitijgomber)  
 
 ---
 
 <p align="center">
-  <i>"Code with clarity. Design with empathy. Build with impact."</i>  
+  <i>"Code with clarity. Design with empathy. Build with impact."</i>
 </p>
