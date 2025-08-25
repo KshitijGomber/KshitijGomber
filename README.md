@@ -122,12 +122,7 @@ _Bachelor of Science – Computer Science Major (Year 4)_
 
 ### 📈 GitHub Insights
 
-![Kshitij's GitHub stats](https://github-readme-stats.vercel.app/api?username=KshitijGomber&show_icons=true&rank_icon=github)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KshitijGomber&layout=compact)
-
 [![GitHub Streak](https://streak-stats.demolab.com/?user=KshitijGomber)](https://git.io/streak-stats)
-
-![Contributions Badge](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/KshitijGomber/KshitijGomber/main/.github/contrib_badge.json)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KshitijGomber/KshitijGomber/output/github-contribution-grid-snake-dark.svg" />
